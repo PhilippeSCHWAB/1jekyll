@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-13T16:16:49+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Mon titre pschwab</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">TITRE Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/02/13/welcome-to-jekyll.html" rel="alternate" type="text/html" title="TITRE Welcome to Jekyll!" /><published>2020-02-13T11:16:43+01:00</published><updated>2020-02-13T11:16:43+01:00</updated><id>http://localhost:4000/jekyll/update/2020/02/13/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/02/13/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/philippeschwab&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].&lt;/p&gt;
+
+&lt;!--
+--[jekyll-talk]: https://talk.jekyllrb.com/
+--&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Post PSchwab N 1</title><link href="http://localhost:4000/jekyll/update/2020/02/13/welcome-to-post1.html" rel="alternate" type="text/html" title="Post PSchwab N 1" /><published>2020-02-13T11:16:43+01:00</published><updated>2020-02-13T11:16:43+01:00</updated><id>http://localhost:4000/jekyll/update/2020/02/13/welcome-to-post1</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/02/13/welcome-to-post1.html">&lt;p&gt;Affiche image locale&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/unnamed.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;3-le-formatage-du-texte&quot;&gt;3 Le formatage du texte&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;texte en italique&lt;/em&gt;
+&lt;strong&gt;texte en gras&lt;/strong&gt;
+&lt;code class=&quot;highlighter-rouge&quot;&gt;texte encadré&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Le ` pour encadrer du texte ne doit pas être confondu avec le ‘ (guillemet simple). Il est obtenu avec la combinaison ALT+è (ALT et la touche 7 du clavier). Ce formatage est plutôt utilisé pour dénoter une bout de code source.&lt;/p&gt;
+
+&lt;h1 id=&quot;5-les-listes&quot;&gt;5 Les listes&lt;/h1&gt;
+&lt;p&gt;Pour des listes non-numérotées,&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Premier élément&lt;/li&gt;
+  &lt;li&gt;Deuxième élément&lt;/li&gt;
+  &lt;li&gt;etc.
+Pour des lsites numérotées,
+    &lt;ol&gt;
+      &lt;li&gt;Premier élément&lt;/li&gt;
+      &lt;li&gt;Deuxième élément&lt;/li&gt;
+      &lt;li&gt;etc.
+Remarques :&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Au lieu d’utiliser “-“ pour les listes non-numérotées, on peut également utiliser * et +
+On n’est pas obliger de s’embêter avec les numérotation 1., 2., etc . Par exemple, écrire :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Premier élément&lt;/li&gt;
+  &lt;li&gt;Deuxième élément&lt;/li&gt;
+  &lt;li&gt;etc.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">Affiche image locale</summary></entry><entry><title type="html">Post PSchwab N 2</title><link href="http://localhost:4000/jekyll/update/2020/02/13/welcome-to-post2.html" rel="alternate" type="text/html" title="Post PSchwab N 2" /><published>2020-02-13T11:16:43+01:00</published><updated>2020-02-13T11:16:43+01:00</updated><id>http://localhost:4000/jekyll/update/2020/02/13/welcome-to-post2</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/02/13/welcome-to-post2.html">&lt;p&gt;affiche image from intent
+&lt;img src=&quot;https://www.numerama.com/content/uploads/2019/05/trou-noir-astronomie-univers-espace.jpg&quot; alt=&quot;image-title-here&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">affiche image from intent</summary></entry><entry><title type="html">Post PSchwab N 3</title><link href="http://localhost:4000/jekyll/update/2020/02/13/welcome-to-post3.html" rel="alternate" type="text/html" title="Post PSchwab N 3" /><published>2020-02-13T11:16:43+01:00</published><updated>2020-02-13T11:16:43+01:00</updated><id>http://localhost:4000/jekyll/update/2020/02/13/welcome-to-post3</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/02/13/welcome-to-post3.html">&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://youtu.be/B5lt8yswDjg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/B5lt8yswDjg&quot;&gt;Cliquez ici a la video &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Melun&quot;&gt;Cliquez ici pour accéder Melun wiki &lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
